@@ -4,7 +4,6 @@
   "description": "JS Assignment Repository",
   "main": "app/main.js",
   "scripts": {
-    "test": "node app/test.js",
     "start": "node app/main.js"
   },
   "repository": {
